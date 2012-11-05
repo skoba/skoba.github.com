@@ -4,7 +4,7 @@
   <title><![CDATA[Otaku doctor's memo]]></title>
   <link href="http://skoba.github.com/atom.xml" rel="self"/>
   <link href="http://skoba.github.com/"/>
-  <updated>2012-11-05T23:29:48+09:00</updated>
+  <updated>2012-11-06T00:53:43+09:00</updated>
   <id>http://skoba.github.com/</id>
   <author>
     <name><![CDATA[KOBAYASHI, Shinji]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Start up octpress]]></title>
+    <link href="http://skoba.github.com/blog/2012/11/06/start-up-octpress/"/>
+    <updated>2012-11-06T00:11:00+09:00</updated>
+    <id>http://skoba.github.com/blog/2012/11/06/start-up-octpress</id>
+    <content type="html"><![CDATA[<p>I will write this blog for my open source software activity and clincial informatics, mainly about openEHR and Ruby (on Rails).</p>
+]]></content>
+  </entry>
   
 </feed>
