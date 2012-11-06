@@ -2,14 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://skoba.github.com/blog/2012/11/06/start-up-octpress/</loc>
-        <lastmod>2012-11-06T00:53:33+09:00</lastmod>
+        <lastmod>2012-11-06T15:38:18+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://skoba.github.com/blog/2012/11/06/catalogue-of-iso-for-ehr/</loc>
+        <lastmod>2012-11-06T23:40:12+09:00</lastmod>
     </url>
     <url>
         <loc>http://skoba.github.com/</loc>
-        <lastmod>2012-11-06T00:53:33+09:00</lastmod>
+        <lastmod>2012-11-06T23:40:12+09:00</lastmod>
     </url>
     <url>
         <loc>http://skoba.github.com/blog/archives/</loc>
-        <lastmod>2012-11-06T00:53:33+09:00</lastmod>
+        <lastmod>2012-11-06T23:40:12+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://skoba.github.com/archives/</loc>
+        <lastmod>2012-11-06T23:40:12+09:00</lastmod>
     </url>
 </urlset>

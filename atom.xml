@@ -4,7 +4,7 @@
   <title><![CDATA[Otaku doctor's memo]]></title>
   <link href="http://skoba.github.com/atom.xml" rel="self"/>
   <link href="http://skoba.github.com/"/>
-  <updated>2012-11-06T00:53:43+09:00</updated>
+  <updated>2012-11-06T23:41:45+09:00</updated>
   <id>http://skoba.github.com/</id>
   <author>
     <name><![CDATA[KOBAYASHI, Shinji]]></name>
@@ -12,6 +12,99 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Catalogue of ISO on EHR]]></title>
+    <link href="http://skoba.github.com/blog/2012/11/06/catalogue-of-iso-for-ehr/"/>
+    <updated>2012-11-06T10:20:00+09:00</updated>
+    <id>http://skoba.github.com/blog/2012/11/06/catalogue-of-iso-for-ehr</id>
+    <content type="html"><![CDATA[<h1>ISO satandards for electronic health record (EHR)</h1>
+
+<ul>
+<li>ISO/HL7 10781:2009</li>
+</ul>
+
+
+<p>Electronic Health Record-System Functional Model, Release 1.1</p>
+
+<ul>
+<li>ISO 13606-1:2008</li>
+</ul>
+
+
+<p>Health informatics &#8211; Electronic health record communication &#8211; Part 1: Reference model</p>
+
+<ul>
+<li>ISO 13606-2:2008</li>
+</ul>
+
+
+<p>Health informatics &#8211; Electronic health record communication &#8211; Part 2: Archetype interchange specification</p>
+
+<ul>
+<li>ISO 13606-3:2009</li>
+</ul>
+
+
+<p>Health informatics &#8211; Electronic health record communication &#8211; Part 3: Reference archetypes and term lists</p>
+
+<ul>
+<li>ISO/TS 13606-4:2009</li>
+</ul>
+
+
+<p>Health informatics &#8211; Electronic health record communication &#8211; Part 4: Security</p>
+
+<ul>
+<li>ISO 13606-5:2010</li>
+</ul>
+
+
+<p>Health informatics &#8211; Electronic health record communication &#8211; Part 5: Interface specification</p>
+
+<ul>
+<li>ISO 18308:2011</li>
+</ul>
+
+
+<p>Health informatics &#8211; Requirements for an electronic health record architecture</p>
+
+<ul>
+<li>ISO/TR 20514:2005</li>
+</ul>
+
+
+<p>Health informatics &#8211; Electronic health record &#8211; Definition, scope and context</p>
+
+<ul>
+<li>ISO/TS 21547:2010</li>
+</ul>
+
+
+<p>Health informatics &#8211; Security requirements for archiving of electronic health records &#8211; Principles</p>
+
+<ul>
+<li>ISO/TR 21089:2004</li>
+</ul>
+
+
+<p>Health informatics &#8211; Trusted end-to-end information flows</p>
+
+<ul>
+<li>ISO/TR 22221:2006</li>
+</ul>
+
+
+<p>Health informatics - Good principles and practices for a clinical data warehouse</p>
+
+<ul>
+<li>ISO/TS 27527:2010</li>
+</ul>
+
+
+<p>Health informatics &#8211; Provider identification</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Start up octpress]]></title>
